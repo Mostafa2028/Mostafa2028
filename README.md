@@ -8,6 +8,7 @@
 
 ## 🧑‍🎓 About Me
 - 💡 Passionate about software development, problem-solving, and teamwork
+- 🤖 Want to develop myself more in the track of machine learning
 - 🔍 Always eager to learn and explore new technologies
 
 ---
