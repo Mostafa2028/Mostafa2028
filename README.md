@@ -20,10 +20,10 @@
 ---
 
 ## 🎧 Fun Facts & Interests
-- ⚽ I love playing and watching football
 - 🎶 I enjoy listening to music while writing code — it keeps me focused!
 - 💻 I like building apps and games, especially in C# and Python
 - 🔧 Favorite tools: VS Code
+- ⚽ I love playing and watching football
 
 ---
 
